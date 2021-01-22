@@ -10,7 +10,7 @@ on the software development area!
 
 - 🔭 I’m currently working on building my skills, a personal project and finding an opportunity as a developer.
 
-- 🌱 I’m currently learning Java, Python, Git/GitHub.
+- 🌱 I’m currently improving Java, Python, Git/GitHub.
 
 - 📫 How to reach me: gabrielsousa9@hotmail.com
 
