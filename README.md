@@ -1,16 +1,43 @@
-### Howdy! I'm Gabriel 👋
+## Welcome to my Github!
 
-<!--
-**GabrielSousa02/GabrielSousa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSousa02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSousa02&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<br>
 
-I am graduated in Manufacture Engineering with an especialization in Strategic Management of IT.
 
-I've recently decided to pursue my dream/passion... coding! So, now I'm learning how to use everything I've learned in my carrer as engineer
-on the software development area!
-
-- 🔭 I’m currently working on building my skills, a personal project and finding an opportunity as a developer.
-
-- 🌱 I’m currently improving Java, Python, Git/GitHub.
-
-- 📫 How to reach me: gabrielsousa9@hotmail.com
-
+<div  align="center"> 
+  <img align="left" height="355" alt="coding-time" src="code.gif">
+  <div style="display: inline_block"><br>
+    <h1 style="margin-left: 600px; margin-right: 120px" align="center">Languages</h1>
+    <div style="margin-top: -10px">
+      <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </div>
+    <h1 style="margin-left: 600px; margin-right: 120px; margin-top: 40px"align="center">Frameworks</h1>
+    <div style="margin-top: -10px">
+      <img align="center" height="30" width="40" alt="django-icon"  src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg">
+      <img align="center" height="30" width="40" alt="flask-icon"  src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original.svg">
+    </div>
+    <h1 style="margin-left: 600px; margin-right: 120px; margin-top: 30px" align="center">Other Technologies</h1>
+    <div style="margin-top: -10px">
+      <img align="center" height="30" width="40" alt="linux-icon" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg">
+      <img align="center" height="30" width="40" alt="docker-icon" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg">
+      <img align="center" height="30" width="40" alt="vagrant-icon" src="https://github.com/devicons/devicon/raw/master/icons/vagrant/vagrant-original.svg">
+      <img align="center" height="30" width="40" alt="firebase-icon" src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain.svg">
+      <img align="center" height="30" width="40" alt="git-icon" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg">
+    </div>
+<div>
+<br><br><br>
+<div style="display: inline_block; margin-left: 200px; margin-right: 200px; margin-top: 60px" align="center">
+  <h1 style="">How to reach me</h1>
+    <a href = "mailto: gabriel@gsousa.com.br">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/gabrielsousa9">
+      <img width="25" src="linkedin.svg">
+    </a>
+</div>
