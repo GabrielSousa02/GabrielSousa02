@@ -36,7 +36,7 @@
     <a href = "mailto: gabriel@gsousa.com.br">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/gabrielsousa9">
+    <a href = "https://www.linkedin.com/in/gabriel-afsousa">
       <img width="25" src="linkedin.svg">
     </a>
 </div>
