@@ -7,7 +7,7 @@
 - 🥅 2023 Goals: Learn more about Full Cycle Development
 - ⚡ Fun fact: I love photography, and I am a Neovim secret fan
 
-<img align="right" alt="gif" height="150" style="border-radius:50px;" src="./img/code.gif">
+<img align="right" alt="gif" height="150" style="border-radius:80px;" src="./img/code.gif">
 
 ### Connect with me:
 
@@ -24,6 +24,9 @@
   <img align="left" alt="FastAPI" style="padding:5px;" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img align="left" alt="Django" style="padding:5px;" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img align="left" alt="Flask" style="padding:5px;" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</div>
+<br>
+<div style="display: inline_block"><br>
   <img align="left" alt="Dart" style="padding:5px;" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img align="left" alt="Flutter" style="padding:5px;" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img align="left" alt="PostgreSQL" style="padding:5px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
