@@ -2,9 +2,9 @@
 
 ### I'm a Husband, Father, and Software Engineer!
 
-- 🔭 I'm currently `working with` FastAPI and Flutter
-- 🚀 I'm currently `improving` Django & FastAPI
-- 🌱 I’m currently `learning` Flutter
+- 🔭 I'm currently `working with` Django and Flutter
+- 🚀 I'm currently `improving` Django & Flutter
+- 🌱 I’m currently `learning` how being patient and building docs go a long way
 - 🥅 2023 Goals: Learn more about Full Cycle Development
 - ⚡ Fun fact: I love photography, and I am a Neovim secret fan
 
