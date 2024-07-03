@@ -8,8 +8,6 @@
 - 🥅 2024 Goals: Learn more about Full Cycle Development
 - ⚡ Fun fact: I love photography, and I am a Neovim secret fan
 
-<img align="right" alt="gif" height="150" style="border-radius:120px;" src="./img/code.gif">
-
 ## Connect with me
 
 <div style="display: inline_block"><br>
