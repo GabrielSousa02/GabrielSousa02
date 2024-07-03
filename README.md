@@ -1,16 +1,16 @@
-## Hello there, I'm Gabriel Sousa 👋!
+# Hello there, I'm Gabriel Sousa 👋
 
-### I'm a Husband, Father, and Software Engineer!
+## I'm a Husband, Father, and Software Engineer
 
 - 🔭 I'm currently `working with` Django and Flutter
 - 🚀 I'm currently `improving` Django & Flutter
 - 🌱 I’m currently `learning` how being patient and building docs go a long way
-- 🥅 2023 Goals: Learn more about Full Cycle Development
+- 🥅 2024 Goals: Learn more about Full Cycle Development
 - ⚡ Fun fact: I love photography, and I am a Neovim secret fan
 
 <img align="right" alt="gif" height="150" style="border-radius:120px;" src="./img/code.gif">
 
-### Connect with me:
+## Connect with me
 
 <div style="display: inline_block"><br>
   <a href = "mailto: gabriel@gsousa.com.br"><img width="30" style="margin-right: 10px" src="./img/gmail.svg"></a>
