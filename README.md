@@ -2,32 +2,34 @@
 
 ## I'm a Husband, Father, and Software Engineer
 
-- 🔭 I'm currently `working with` Django and Flutter
+- 💻 I'm currently `working with` Django, and JavaScript, and Flutter
 - 🚀 I'm currently `improving` Django & Flutter
-- 🌱 I’m currently `learning` how being patient and building docs go a long way
-- 🥅 2024 Goals: Learn more about Full Cycle Development
-- ⚡ Fun fact: I love photography, and I am a Neovim secret fan
+- 🔭 I’m currently `interested in/learning` C++ and embedded software
+- 🥅 2025 Goals: Learn more about Full Cycle Development
+- ⚡ Fun fact: I am a Neovim fan
 
 ## Connect with me
 
 <div style="display: inline_block"><br>
-  <a href = "mailto: gabriel@gsousa.com.br"><img width="30" style="margin-right: 10px" src="./img/gmail.svg"></a>
-  <a href = "https://www.linkedin.com/in/gabriel-afsousa"><img width="25" style="margin-right: 10px" src="./img/linkedin.svg"></a>
-  <a href = "https://twitter.com/gabrielsousa9"><img width="25" style="margin-right: 10px" src="./img/twitter.svg"></a>
+  <a href="mailto: gabriel@gsousa.com.br"><img width="30" style="margin-right: 10px" src="./img/gmail.svg"></a>
+  <a href="https://www.linkedin.com/in/gabriel-afsousa"><img width="25" style="margin-right: 10px" src="./img/linkedin.svg"></a>
 </div>
 
-## Languages and Tools
+## Languages, Frameworks and Tools
 
 <div style="display: inline_block"><br>
   <img align="left" alt="Python" style="padding:5px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img align="left" alt="FastAPI" style="padding:5px;" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img align="left" alt="Dart" style="padding:5px;" src="https://img.shields.io/badge/Dart-01589C?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img align="left" alt="JavaScript" style="padding:5px;" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
+  <img align="left" alt="Go" style="padding:5px;" src="https://img.shields.io/badge/Go-69D8E3?style=for-the-badge&logo=go&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br>
   <img align="left" alt="Django" style="padding:5px;" src="https://img.shields.io/badge/Django-0c4b19?style=for-the-badge&logo=django&logoColor=white"/>
+  <img align="left" alt="FastAPI" style="padding:5px;" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img align="left" alt="Flutter" style="padding:5px;" src="https://img.shields.io/badge/Flutter-01589C?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img align="left" alt="VueJS" style="padding:5px;" src="https://img.shields.io/badge/Vue.JS-239B73?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </div>
 <br>
-<div style="display: inline_block"><br>
-  <img align="left" alt="Dart" style="padding:5px;" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img align="left" alt="Flutter" style="padding:5px;" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</div>
 <br>
 <div style="display: inline_block"><br>
   <img align="left" alt="AWS" style="padding:5px;" src="https://img.shields.io/badge/Amazon_AWS-ec7210?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
