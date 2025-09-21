@@ -17,33 +17,33 @@
 
 ## Languages, Frameworks and Tools
 
-<div style="display: inline_block"><br>
-  <img align="left" alt="Python" style="padding:5px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img align="left" alt="Dart" style="padding:5px;" src="https://img.shields.io/badge/Dart-01589C?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img align="left" alt="JavaScript" style="padding:5px;" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
-  <img align="left" alt="Go" style="padding:5px;" src="https://img.shields.io/badge/Go-69D8E3?style=for-the-badge&logo=go&logoColor=white"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="left" alt="Django" style="padding:5px;" src="https://img.shields.io/badge/Django-0c4b19?style=for-the-badge&logo=django&logoColor=white"/>
-  <img align="left" alt="FastAPI" style="padding:5px;" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img align="left" alt="Flutter" style="padding:5px;" src="https://img.shields.io/badge/Flutter-01589C?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img align="left" alt="VueJS" style="padding:5px;" src="https://img.shields.io/badge/Vue.JS-239B73?style=for-the-badge&logo=vue.js&logoColor=white"/>
-</div>
-<br>
-<br>
-<div style="display: inline_block"><br>
-  <img align="left" alt="AWS" style="padding:5px;" src="https://img.shields.io/badge/Amazon_AWS-ec7210?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img align="left" alt="Docker" style="padding:5px;" src="https://img.shields.io/badge/Docker-1f97ed?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
-<br>
-<div style="display: inline_block"><br>
-  <img align="left" alt="PostgreSQL" style="padding:5px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="left" alt="MySQL" style="padding:5px;" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+### Programming Languages
+<div style="display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 15px;">
+  <img alt="Python" style="padding:5px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img alt="Dart" style="padding:5px;" src="https://img.shields.io/badge/Dart-01589C?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img alt="JavaScript" style="padding:5px;" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
+  <img alt="Go" style="padding:5px;" src="https://img.shields.io/badge/Go-69D8E3?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
 
-<br>
-<br>
-<br>
+### Frameworks
+<div style="display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 15px;">
+  <img alt="Django" style="padding:5px;" src="https://img.shields.io/badge/Django-0c4b19?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="FastAPI" style="padding:5px;" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="Flutter" style="padding:5px;" src="https://img.shields.io/badge/Flutter-01589C?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img alt="VueJS" style="padding:5px;" src="https://img.shields.io/badge/Vue.JS-239B73?style=for-the-badge&logo=vue.js&logoColor=white"/>
+</div>
+
+### Cloud & DevOps
+<div style="display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 15px;">
+  <img alt="AWS" style="padding:5px;" src="https://img.shields.io/badge/Amazon_AWS-ec7210?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Docker" style="padding:5px;" src="https://img.shields.io/badge/Docker-1f97ed?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+### Databases
+<div style="display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 15px;">
+  <img alt="PostgreSQL" style="padding:5px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" style="padding:5px;" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
 ## ⚡ GitHub Stats
 
