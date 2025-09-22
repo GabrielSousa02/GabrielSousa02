@@ -10,9 +10,9 @@
 
 ## Connect with me
 
-<div style="display: inline_block"><br>
-  <a href="mailto: gabriel@gsousa.com.br"><img width="30" style="margin-right: 10px" src="./img/gmail.svg"></a>
-  <a href="https://www.linkedin.com/in/gabriel-afsousa"><img width="25" style="margin-right: 10px" src="./img/linkedin.svg"></a>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;"><br>
+  <a href="mailto: gabriel@gsousa.com.br"><img alt="email" width="30" style="margin-right: 10px" src="./img/gmail.svg"></a>
+  <a href="https://www.linkedin.com/in/gabriel-afsousa"><img alt="LinkedIn" width="25" style="margin-right: 10px" src="./img/linkedin.svg"></a>
 </div>
 
 ## Languages, Frameworks and Tools
@@ -47,7 +47,7 @@
 
 ## ⚡ GitHub Stats
 
-<div style="display: inline_block"><br>
-    <img height="170em" src="https://github-readme-stats-gabrielsousa02.vercel.app/api?username=GabrielSousa02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-gabrielsousa02.vercel.app/api/top-langs/?username=GabrielSousa02&layout=compact&langs_count=16&theme=dracula"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;"><br>
+    <img alt="GitStats" height="170em" src="https://github-readme-stats-gabrielsousa02.vercel.app/api?username=GabrielSousa02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img alt="MostUsedLanguages" height="170em" src="https://github-readme-stats-gabrielsousa02.vercel.app/api/top-langs/?username=GabrielSousa02&layout=compact&langs_count=16&theme=dracula"/>
 </div>
